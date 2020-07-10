@@ -26,6 +26,10 @@
 - Commit and push your changes
 - View your deployed site at `https://elevate-the-future.github.io/your-repo-name/`
 
+## Finished
+- Notify the leads!
+- After your website is hosted and the domain is set up, you should delete the **docs** folder.
+
 ## File structure
 ```
  my-repo-name

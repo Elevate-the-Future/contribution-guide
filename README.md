@@ -20,8 +20,7 @@
 	- Multi-line commit descriptions are encouraged where appropriate
 
 ## Deploying
-**Only** when you are finished with your 1st, 2nd, or final draft:
-- Make a copy of your project folder in your root directory and rename that folder **docs**
+- Deploy your site using github pages
 	- If you are using a framework such as Vue (or React) or a static site generator (such as Jekyll), search online for instructions to deploy to GitHub pages (most static site generators have instructions in their docs)
 - Commit and push your changes
 - View your deployed site at `https://elevate-the-future.github.io/your-repo-name/`

@@ -5,7 +5,7 @@
 - Accept the email invitation to join the ETF GitHub organization
 - Create a repo
   - The name should be all-lowercase, and words should be separated by hyphens (e.g. `mbs-place`, `my-restaurant`)
-- Enable GitHub Pages on the repo _(Settings — GitHub — Source — “master branch / docs folder”)_
+- Enable GitHub Pages on the repo _(Settings — GitHub — Source — “master branch)_
 
 ## Getting started
 - Write a short **README.md** in the root of the repo about the site
